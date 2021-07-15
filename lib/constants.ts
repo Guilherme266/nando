@@ -41,16 +41,16 @@ export const REPO = 'https://github.com/vercel/virtual-event-starter-kit';
 export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
-    name: 'Stage A',
-    route: '/stage/a'
+    name: 'Inicio',
+    route: '/inicio'
   },
   {
-    name: 'Stage C',
-    route: '/stage/c'
+    name: 'Filmes',
+    route: '/Filmes'
   },
   {
-    name: 'Stage M',
-    route: '/stage/m'
+    name: 'Series',
+    route: '/Series'
   },
   {
     name: 'Stage E',
